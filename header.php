@@ -8,14 +8,14 @@ if (session_status() == PHP_SESSION_NONE) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Premium Bubble</title>
+    <title>Alya Nur Kinasih</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 </head>
 <body>
     <nav class="main-nav">
         <div class="container nav-container">
-            <a href="index.php" class="nav-brand">The Premium Bubble</a>
+            <a href="index.php" class="nav-brand">Alya Nur Kinasih</a>
             <ul class="nav-menu">
                 <li><a href="index.php">Beranda</a></li>
                 <li><a href="menu.php">Menu</a></li>
