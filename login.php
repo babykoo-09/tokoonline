@@ -38,7 +38,7 @@ $koneksi->close();
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Login - The Premium Bubble</title>
+    <title>Alya Nur Kinasih</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
