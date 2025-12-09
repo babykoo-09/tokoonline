@@ -5,7 +5,7 @@ mysqli_report(MYSQLI_REPORT_OFF);
 $host = 'localhost';
 $db_user = 'root';
 $db_pass = '';
-$db_name = 'dbpremiumbubble';
+$db_name = 'psas_db';
 
 // Menggunakan gaya object-oriented
 $koneksi = new mysqli($host, $db_user, $db_pass, $db_name);
